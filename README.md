@@ -1,16 +1,23 @@
 Proiect-Retele-Neuronale
 2. Descrierea Setului de Date – Dataset 2: AI4I 2020 Predictive Maintenance Dataset
+
 2.1 Sursa datelor
 
 Origine:
 AI4I 2020 Predictive Maintenance Dataset, publicat în UCI Machine Learning Repository.
+
 Acesta este un set de date sintetic, generat pentru studii de mentenanță predictivă.
 
 Modul de achiziție:
+
 ☐ Senzori reali
+
 ☑ Simulare (date generate sintetic)
+
 ☑ Fișier extern
+
 ☐ Generare programatică
+
 
 Perioada / condițiile colectării:
 
@@ -25,9 +32,13 @@ Număr total de observații: 10.000 rânduri
 Număr de caracteristici: 10 features + 2 etichete (binary și multiclass)
 
 Tipuri de date:
+
 ☑ Numerice
+
 ☑ Categoriale
+
 ☐ Temporale
+
 ☐ Imagini
 
 Format fișiere:
