@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Estimare durata de viata scula CNC</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Estimare durata de viata scula CNC</h1>
+
+        <form method="POST">
+            <label>Scula:
+                <select name="scula">
+                    {% for i, (tip, model) in enumerate(scule) %}
+                    <option value="{{ i }}">{{ tip }} - {{ model }}</option>
+                    {% endfor %}
+                </select>
+            </label>
+
+            <label>Turatia folosita (RPM):
+                <input type="number" name="turatie" step="any" required>
+            </label>
+            <label>Avansul folosit (mm/min):
+                <input type="number" name="avans" step="any" required>
+            </label>
+            <label>Adancimea de aschiere (mm):
+                <input type="number" name="adancime" step="any" required>
+            </label>
+            <label>Uzura sculei actuala (%):
+                <input type="number" name="uzura" step="any" required>
+            </label>
+
+            <button type="submit">Calculeaza</button>
+        </form>
+
+        {% if rezultat %}
+        <div class="rezultat">
+            <h3>Rezultat estimare:</h3>
+            <p><strong>Scula:</strong> {{ rezultat.tip_scula }} - {{ rezultat.model_scula }}</p>
+            <p><strong>Factor suprasolicitare:</strong> {{ rezultat.factor }}</p>
+            <p><strong>Timp ramas de viata:</strong> {{ rezultat.timp_ramas }}%</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
