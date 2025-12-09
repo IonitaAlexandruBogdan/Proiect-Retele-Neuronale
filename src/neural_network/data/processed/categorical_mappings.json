@@ -1,0 +1,34 @@
+{
+  "Tip_Scula": {
+    "Burghiu": 0,
+    "Freza": 1,
+    "Placuta amovibila": 2,
+    "Tarod": 3
+  },
+  "Model_Scula": {
+    "CARBIDE DRILL Ø12": 0,
+    "CNMG120408": 1,
+    "FREZA CARBURA Ø10 4F": 2,
+    "FREZA HSS Ø8 2F": 3,
+    "HSS DRILL Ø6": 4,
+    "TAROD M10 ISO2": 5,
+    "WNMG080408": 6
+  },
+  "Material_Prelucrat": {
+    "Aluminiu": 0,
+    "Inox": 1,
+    "Otel": 2
+  },
+  "Tip_Operatie": {
+    "Filetare": 0,
+    "Frezare": 1,
+    "Gaurire": 2,
+    "Strunjire": 3
+  },
+  "Tip_Defect": {
+    "Niciunul": 0,
+    "Supraincalzire": 1,
+    "Uzura excesiva": 2,
+    "Vibratii": 3
+  }
+}

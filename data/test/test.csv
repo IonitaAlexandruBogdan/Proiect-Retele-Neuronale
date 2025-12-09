@@ -1,0 +1,211 @@
+ID_Scula,Tip_Scula,Model_Scula,Turatie_RPM,Avans_mm_min,Adancime_Aschiere_mm,Debit_Lichid_racire_L_min,Temperatura_C,Vibratii_mm_s,Uzura_procent,Zgomot_dB,Material_Prelucrat,Tip_Operatie,ID_Lot,Scula_Defecta,Tip_Defect
+36,Burghiu,HSS DRILL Ø6,4177,502.62,1.87,9.5,56.33,0.78,18.2,60.07,Inox,Gaurire,486,0,Niciunul
+284,Tarod,TAROD M10 ISO2,4562,632.57,1.9,17.13,65.2,0.85,13.1,68.36,Aluminiu,Filetare,402,0,Niciunul
+281,Placuta amovibila,WNMG080408,2545,338.46,2.89,7.07,42.45,1.18,10.3,71.47,Aluminiu,Strunjire,242,0,Niciunul
+121,Placuta amovibila,CNMG120408,3336,262.12,1.18,8.45,91.32,8.7,83.5,88.59,Aluminiu,Strunjire,435,1,Vibratii
+236,Freza,FREZA CARBURA Ø10 4F,3155,242.05,0.98,6.17,122.41,5.08,74.7,89.5,Inox,Frezare,396,1,Vibratii
+260,Burghiu,HSS DRILL Ø6,5349,694.18,2.33,17.98,132.02,3.88,60.8,80.12,Otel,Gaurire,192,1,Uzura excesiva
+113,Burghiu,CARBIDE DRILL Ø12,5006,683.37,1.89,12.26,128.11,3.55,85.5,92.3,Otel,Gaurire,450,1,Supraincalzire
+81,Tarod,TAROD M10 ISO2,3683,953.57,1.91,18.53,54.62,0.73,17.3,61.71,Inox,Filetare,133,0,Niciunul
+119,Burghiu,CARBIDE DRILL Ø12,3200,396.17,1.71,18.67,84.13,5.19,87.0,92.48,Aluminiu,Gaurire,45,1,Vibratii
+176,Placuta amovibila,CNMG120408,2128,653.96,0.17,17.47,54.44,0.5,17.9,65.22,Otel,Strunjire,80,0,Niciunul
+210,Burghiu,CARBIDE DRILL Ø12,2077,1085.68,0.88,11.88,153.4,8.68,98.5,95.19,Aluminiu,Gaurire,88,1,Supraincalzire
+199,Freza,FREZA CARBURA Ø10 4F,4442,948.42,0.57,15.43,150.8,8.17,87.2,88.46,Aluminiu,Frezare,46,1,Supraincalzire
+286,Placuta amovibila,WNMG080408,3667,543.68,2.89,12.91,61.56,1.4,10.3,67.96,Aluminiu,Strunjire,263,0,Niciunul
+111,Placuta amovibila,CNMG120408,3827,1124.26,1.55,11.72,53.68,0.65,17.8,70.5,Aluminiu,Strunjire,426,0,Niciunul
+202,Burghiu,CARBIDE DRILL Ø12,5202,697.85,0.99,18.94,67.79,0.93,5.7,73.82,Inox,Gaurire,423,0,Niciunul
+114,Burghiu,HSS DRILL Ø6,5758,838.7,0.96,11.82,87.0,8.24,86.2,90.14,Aluminiu,Gaurire,47,1,Supraincalzire
+47,Freza,FREZA CARBURA Ø10 4F,4397,612.7,0.73,5.09,54.78,0.62,13.4,70.96,Otel,Frezare,166,0,Niciunul
+76,Freza,FREZA HSS Ø8 2F,5267,405.25,1.06,19.65,43.98,1.62,1.4,65.23,Aluminiu,Frezare,316,0,Niciunul
+145,Tarod,TAROD M10 ISO2,3618,546.71,2.58,18.82,43.28,1.49,19.4,61.41,Otel,Filetare,25,0,Niciunul
+248,Placuta amovibila,CNMG120408,1968,509.63,1.47,5.37,61.68,0.74,17.1,60.05,Inox,Strunjire,136,0,Niciunul
+33,Burghiu,CARBIDE DRILL Ø12,3969,993.27,1.92,9.94,47.0,1.65,1.4,73.48,Otel,Gaurire,118,0,Niciunul
+51,Freza,FREZA CARBURA Ø10 4F,4596,610.12,1.96,12.12,137.77,11.15,54.1,94.66,Inox,Frezare,464,1,Supraincalzire
+170,Placuta amovibila,CNMG120408,3310,370.07,0.98,18.93,54.97,1.37,5.4,69.48,Aluminiu,Strunjire,65,0,Niciunul
+270,Tarod,TAROD M10 ISO2,5641,601.32,1.54,18.67,49.77,1.01,2.6,71.32,Otel,Filetare,368,0,Niciunul
+154,Freza,FREZA HSS Ø8 2F,3893,232.61,2.38,18.02,66.51,1.92,8.7,64.14,Otel,Frezare,456,0,Niciunul
+27,Burghiu,CARBIDE DRILL Ø12,4032,705.58,2.37,5.74,55.04,1.73,12.3,60.28,Aluminiu,Gaurire,269,0,Niciunul
+208,Placuta amovibila,WNMG080408,2190,1090.03,2.3,14.53,65.78,0.95,12.6,70.77,Otel,Strunjire,139,0,Niciunul
+293,Placuta amovibila,CNMG120408,2726,1098.44,0.69,7.92,49.65,1.26,11.5,68.72,Aluminiu,Strunjire,316,0,Niciunul
+172,Placuta amovibila,CNMG120408,3499,823.77,0.13,16.4,133.79,7.03,96.0,92.8,Otel,Strunjire,377,1,Uzura excesiva
+9,Placuta amovibila,CNMG120408,1802,432.71,1.8,13.42,50.48,0.74,10.1,64.83,Aluminiu,Strunjire,184,0,Niciunul
+171,Freza,FREZA CARBURA Ø10 4F,1645,1080.93,2.69,9.03,140.16,3.69,57.9,83.61,Inox,Frezare,314,1,Vibratii
+167,Placuta amovibila,CNMG120408,4788,541.25,0.95,16.26,41.63,0.64,15.9,70.6,Aluminiu,Strunjire,487,0,Niciunul
+200,Burghiu,HSS DRILL Ø6,2510,1199.01,2.92,15.05,51.43,0.86,16.1,60.31,Aluminiu,Gaurire,303,0,Niciunul
+66,Freza,FREZA CARBURA Ø10 4F,2239,405.64,2.99,14.53,46.65,1.44,17.5,71.29,Otel,Frezare,260,0,Niciunul
+264,Burghiu,HSS DRILL Ø6,2176,279.32,2.59,7.92,57.64,1.95,3.4,61.96,Inox,Gaurire,214,0,Niciunul
+191,Freza,FREZA HSS Ø8 2F,5282,695.47,2.47,10.29,62.15,1.31,2.8,62.97,Aluminiu,Frezare,239,0,Niciunul
+73,Burghiu,HSS DRILL Ø6,3778,308.58,0.99,14.08,109.32,6.71,53.1,91.97,Otel,Gaurire,242,1,Vibratii
+206,Placuta amovibila,CNMG120408,5981,632.96,1.06,18.6,107.96,9.4,54.6,88.74,Aluminiu,Strunjire,309,1,Supraincalzire
+300,Tarod,TAROD M10 ISO2,5886,277.63,2.25,19.31,134.26,6.49,64.5,90.77,Inox,Filetare,153,1,Supraincalzire
+30,Tarod,TAROD M10 ISO2,2564,719.43,2.93,5.75,62.05,0.77,6.5,69.14,Aluminiu,Filetare,318,0,Niciunul
+22,Freza,FREZA CARBURA Ø10 4F,2631,784.28,1.42,15.47,60.42,1.69,13.9,69.19,Otel,Frezare,286,0,Niciunul
+68,Burghiu,CARBIDE DRILL Ø12,2821,366.45,0.36,18.58,126.67,8.08,72.7,94.46,Aluminiu,Gaurire,495,1,Uzura excesiva
+171,Placuta amovibila,CNMG120408,2807,728.66,1.45,13.18,56.34,1.13,3.4,70.63,Aluminiu,Strunjire,362,0,Niciunul
+3,Burghiu,HSS DRILL Ø6,3389,991.82,0.88,15.68,137.78,3.64,65.1,80.77,Otel,Gaurire,14,1,Supraincalzire
+294,Placuta amovibila,CNMG120408,4651,1001.33,2.56,17.03,61.76,0.52,1.4,74.01,Inox,Strunjire,370,0,Niciunul
+182,Freza,FREZA CARBURA Ø10 4F,4900,415.64,1.38,18.76,54.25,1.52,7.3,60.21,Otel,Frezare,217,0,Niciunul
+221,Placuta amovibila,CNMG120408,3834,816.51,1.56,10.17,65.75,1.15,0.3,65.79,Inox,Strunjire,68,0,Niciunul
+218,Freza,FREZA HSS Ø8 2F,1889,732.66,0.91,10.75,68.21,1.99,12.4,64.22,Aluminiu,Frezare,42,0,Niciunul
+73,Freza,FREZA CARBURA Ø10 4F,4392,1095.25,2.74,6.58,49.88,1.21,19.2,74.67,Otel,Frezare,271,0,Niciunul
+71,Placuta amovibila,CNMG120408,4841,1107.99,0.91,8.47,52.79,1.58,12.1,73.38,Otel,Strunjire,57,0,Niciunul
+140,Freza,FREZA HSS Ø8 2F,1697,662.5,1.78,18.38,51.22,1.13,18.0,74.6,Inox,Frezare,53,0,Niciunul
+42,Placuta amovibila,CNMG120408,3687,1061.45,0.64,6.86,113.59,3.82,50.7,99.99,Aluminiu,Strunjire,298,1,Supraincalzire
+185,Placuta amovibila,CNMG120408,3298,1027.26,0.89,11.03,47.36,0.99,15.7,70.74,Aluminiu,Strunjire,438,0,Niciunul
+272,Freza,FREZA CARBURA Ø10 4F,1938,467.57,2.22,17.91,35.46,0.86,0.1,74.37,Inox,Frezare,245,0,Niciunul
+112,Freza,FREZA HSS Ø8 2F,1507,802.97,2.53,7.28,49.2,1.23,0.7,73.95,Aluminiu,Frezare,268,0,Niciunul
+145,Burghiu,CARBIDE DRILL Ø12,2941,400.47,0.29,13.85,118.64,11.13,97.8,90.18,Otel,Gaurire,112,1,Supraincalzire
+181,Burghiu,HSS DRILL Ø6,3675,1191.7,2.85,7.14,50.18,1.04,4.8,72.25,Otel,Gaurire,216,0,Niciunul
+223,Tarod,TAROD M10 ISO2,5804,408.76,1.36,7.15,47.99,1.63,5.7,66.11,Otel,Filetare,484,0,Niciunul
+180,Placuta amovibila,CNMG120408,1627,345.49,0.73,17.39,130.47,11.74,65.7,99.46,Aluminiu,Strunjire,322,1,Supraincalzire
+232,Placuta amovibila,CNMG120408,2895,1109.82,0.27,5.37,69.4,1.88,11.6,60.25,Inox,Strunjire,271,0,Niciunul
+48,Burghiu,HSS DRILL Ø6,4133,908.94,1.36,5.5,63.29,0.86,2.3,74.35,Otel,Gaurire,430,0,Niciunul
+144,Burghiu,HSS DRILL Ø6,1758,903.82,2.04,10.6,39.72,1.38,12.4,71.69,Otel,Gaurire,439,0,Niciunul
+136,Placuta amovibila,WNMG080408,3364,567.17,1.85,15.68,55.84,1.82,4.2,71.27,Aluminiu,Strunjire,390,0,Niciunul
+131,Tarod,TAROD M10 ISO2,1564,294.22,1.5,13.65,60.53,0.89,17.5,63.15,Otel,Filetare,346,0,Niciunul
+8,Tarod,TAROD M10 ISO2,4968,455.59,2.26,9.6,36.76,1.9,8.5,69.52,Inox,Filetare,353,0,Niciunul
+243,Placuta amovibila,CNMG120408,2101,1020.14,0.96,14.29,52.13,1.46,0.4,65.2,Otel,Strunjire,217,0,Niciunul
+244,Placuta amovibila,WNMG080408,2313,383.45,2.38,6.36,51.45,1.35,13.4,63.89,Otel,Strunjire,190,0,Niciunul
+220,Placuta amovibila,WNMG080408,2097,1007.19,0.18,13.67,41.94,1.62,4.4,73.79,Inox,Strunjire,94,0,Niciunul
+168,Burghiu,HSS DRILL Ø6,2580,227.5,1.36,15.59,43.46,1.71,19.9,67.14,Otel,Gaurire,155,0,Niciunul
+284,Burghiu,HSS DRILL Ø6,4703,240.88,2.88,17.32,87.41,8.42,44.8,81.71,Otel,Gaurire,277,1,Vibratii
+142,Burghiu,HSS DRILL Ø6,5159,715.71,1.24,18.12,51.11,0.74,14.4,65.09,Inox,Gaurire,24,0,Niciunul
+14,Tarod,TAROD M10 ISO2,1591,804.57,0.42,10.31,51.03,1.85,7.4,64.25,Otel,Filetare,149,0,Niciunul
+165,Freza,FREZA CARBURA Ø10 4F,4260,751.92,2.78,5.33,153.68,5.92,63.6,83.54,Inox,Frezare,404,1,Supraincalzire
+133,Freza,FREZA CARBURA Ø10 4F,5927,264.27,1.78,9.06,44.2,0.65,10.1,69.29,Otel,Frezare,267,0,Niciunul
+162,Freza,FREZA HSS Ø8 2F,2870,413.53,1.64,14.72,50.59,1.83,9.0,61.38,Aluminiu,Frezare,374,0,Niciunul
+8,Freza,FREZA CARBURA Ø10 4F,2795,224.55,2.31,13.0,142.57,10.08,77.6,88.6,Aluminiu,Frezare,51,1,Vibratii
+45,Burghiu,HSS DRILL Ø6,4848,311.51,1.81,19.13,65.51,0.95,7.7,62.53,Inox,Gaurire,249,0,Niciunul
+140,Freza,FREZA CARBURA Ø10 4F,3855,335.39,2.23,13.99,63.91,1.04,1.7,62.86,Otel,Frezare,487,0,Niciunul
+49,Placuta amovibila,WNMG080408,4275,487.53,1.39,19.41,44.4,1.32,19.0,65.97,Inox,Strunjire,355,0,Niciunul
+47,Burghiu,CARBIDE DRILL Ø12,5950,948.82,0.96,14.86,36.35,1.91,10.4,62.29,Inox,Gaurire,355,0,Niciunul
+130,Burghiu,CARBIDE DRILL Ø12,4716,1031.75,1.95,13.52,93.94,4.13,53.4,93.47,Aluminiu,Gaurire,369,1,Uzura excesiva
+291,Burghiu,CARBIDE DRILL Ø12,2078,842.84,1.69,17.62,37.66,0.79,11.3,67.15,Otel,Gaurire,159,0,Niciunul
+115,Placuta amovibila,WNMG080408,2174,1176.65,0.65,19.56,64.85,0.99,0.9,71.67,Otel,Strunjire,102,0,Niciunul
+269,Placuta amovibila,WNMG080408,4500,553.62,0.23,9.58,65.5,1.83,7.9,68.97,Aluminiu,Strunjire,84,0,Niciunul
+169,Placuta amovibila,WNMG080408,3307,960.63,2.14,16.29,156.41,6.74,68.4,98.53,Otel,Strunjire,159,1,Supraincalzire
+8,Burghiu,HSS DRILL Ø6,3795,520.06,1.54,6.96,38.01,1.9,7.9,64.01,Aluminiu,Gaurire,33,0,Niciunul
+90,Placuta amovibila,WNMG080408,4020,665.92,1.34,18.04,43.26,0.57,2.3,74.09,Inox,Strunjire,151,0,Niciunul
+167,Tarod,TAROD M10 ISO2,5830,625.43,0.61,5.79,61.09,1.03,5.7,63.1,Inox,Filetare,391,0,Niciunul
+231,Freza,FREZA HSS Ø8 2F,1856,541.7,0.51,16.76,38.1,1.9,5.0,73.4,Otel,Frezare,115,0,Niciunul
+194,Freza,FREZA HSS Ø8 2F,3126,327.71,2.47,15.31,96.2,10.02,92.2,81.94,Inox,Frezare,422,1,Uzura excesiva
+86,Freza,FREZA HSS Ø8 2F,5392,961.7,0.79,6.54,61.6,1.85,16.1,70.45,Otel,Frezare,386,0,Niciunul
+296,Tarod,TAROD M10 ISO2,1556,874.17,1.79,5.32,41.53,1.21,10.3,62.9,Inox,Filetare,172,0,Niciunul
+18,Freza,FREZA CARBURA Ø10 4F,5809,416.36,1.14,13.37,47.27,1.13,10.2,72.25,Otel,Frezare,350,0,Niciunul
+255,Freza,FREZA HSS Ø8 2F,2974,473.29,0.47,15.55,67.56,1.27,0.6,60.03,Inox,Frezare,411,0,Niciunul
+140,Burghiu,CARBIDE DRILL Ø12,3746,757.88,0.19,16.5,36.18,0.92,11.5,66.71,Otel,Gaurire,357,0,Niciunul
+20,Tarod,TAROD M10 ISO2,4293,555.14,1.82,5.85,49.98,1.04,9.9,63.97,Inox,Filetare,281,0,Niciunul
+200,Placuta amovibila,CNMG120408,4582,805.9,1.88,12.35,138.51,11.07,47.2,82.55,Inox,Strunjire,15,1,Supraincalzire
+63,Placuta amovibila,CNMG120408,3658,299.0,1.93,6.98,97.11,7.62,72.7,84.04,Otel,Strunjire,245,1,Vibratii
+53,Placuta amovibila,CNMG120408,4813,709.72,0.85,11.89,42.06,1.37,1.4,74.18,Otel,Strunjire,376,0,Niciunul
+256,Placuta amovibila,WNMG080408,2807,956.93,1.1,18.71,47.48,1.41,11.4,68.73,Aluminiu,Strunjire,184,0,Niciunul
+109,Burghiu,CARBIDE DRILL Ø12,5164,974.35,2.82,16.17,80.21,3.07,51.1,88.46,Otel,Gaurire,192,1,Supraincalzire
+87,Freza,FREZA HSS Ø8 2F,4572,411.11,2.58,8.8,53.09,1.88,9.5,72.02,Aluminiu,Frezare,23,0,Niciunul
+67,Burghiu,HSS DRILL Ø6,2928,515.3,0.43,8.11,60.66,1.34,17.2,63.17,Otel,Gaurire,180,0,Niciunul
+36,Freza,FREZA CARBURA Ø10 4F,4440,1195.01,1.95,18.79,48.56,0.94,5.8,72.26,Otel,Frezare,68,0,Niciunul
+120,Freza,FREZA HSS Ø8 2F,3573,560.91,0.81,5.44,148.14,8.2,93.2,82.65,Otel,Frezare,309,1,Vibratii
+125,Freza,FREZA CARBURA Ø10 4F,5146,344.81,1.93,7.53,66.18,1.82,12.4,67.46,Inox,Frezare,8,0,Niciunul
+7,Freza,FREZA CARBURA Ø10 4F,4097,664.62,1.28,8.88,41.1,1.72,11.7,64.59,Aluminiu,Frezare,63,0,Niciunul
+62,Placuta amovibila,WNMG080408,5313,1121.72,0.57,11.84,35.56,1.5,12.7,74.67,Inox,Strunjire,268,0,Niciunul
+169,Tarod,TAROD M10 ISO2,2837,733.96,0.46,11.77,36.46,0.81,10.5,61.62,Aluminiu,Filetare,442,0,Niciunul
+141,Placuta amovibila,CNMG120408,2423,615.01,0.77,7.06,64.05,1.55,9.1,65.25,Inox,Strunjire,144,0,Niciunul
+22,Burghiu,HSS DRILL Ø6,4536,1010.26,1.31,16.36,64.4,1.78,4.8,62.21,Otel,Gaurire,281,0,Niciunul
+73,Placuta amovibila,WNMG080408,2365,1148.36,2.56,14.07,38.04,1.19,12.6,62.93,Otel,Strunjire,486,0,Niciunul
+60,Burghiu,HSS DRILL Ø6,3759,302.31,1.65,10.42,63.52,1.04,2.5,72.9,Otel,Gaurire,392,0,Niciunul
+12,Placuta amovibila,WNMG080408,3688,923.0,2.42,5.92,93.73,5.24,91.3,94.43,Otel,Strunjire,117,1,Supraincalzire
+225,Burghiu,HSS DRILL Ø6,5466,1043.4,0.38,19.02,63.69,1.04,15.4,68.95,Otel,Gaurire,90,0,Niciunul
+230,Placuta amovibila,CNMG120408,3142,246.6,0.82,19.11,58.71,1.93,16.4,62.96,Otel,Strunjire,411,0,Niciunul
+13,Burghiu,CARBIDE DRILL Ø12,4823,714.23,2.91,10.62,45.05,1.34,4.0,66.94,Inox,Gaurire,157,0,Niciunul
+40,Placuta amovibila,CNMG120408,3821,953.12,1.7,16.5,35.58,0.96,6.3,73.29,Aluminiu,Strunjire,30,0,Niciunul
+277,Tarod,TAROD M10 ISO2,2272,512.77,1.21,8.07,42.53,1.81,2.3,71.92,Inox,Filetare,30,0,Niciunul
+29,Tarod,TAROD M10 ISO2,4002,298.08,2.54,14.29,63.43,1.27,2.1,60.04,Otel,Filetare,252,0,Niciunul
+237,Freza,FREZA CARBURA Ø10 4F,1611,697.95,2.94,15.53,67.07,1.19,17.7,67.7,Otel,Frezare,35,0,Niciunul
+297,Placuta amovibila,CNMG120408,3511,1159.54,1.67,7.52,62.44,1.88,19.6,61.97,Aluminiu,Strunjire,323,0,Niciunul
+248,Freza,FREZA HSS Ø8 2F,4873,595.93,1.86,11.52,67.15,1.5,12.5,65.44,Aluminiu,Frezare,184,0,Niciunul
+83,Placuta amovibila,CNMG120408,2747,958.37,0.97,14.36,68.42,1.2,15.3,71.25,Inox,Strunjire,421,0,Niciunul
+146,Placuta amovibila,CNMG120408,2845,433.66,1.97,19.0,107.43,5.58,50.5,82.71,Aluminiu,Strunjire,264,1,Uzura excesiva
+103,Placuta amovibila,CNMG120408,5024,284.77,2.83,10.89,47.94,1.78,11.7,62.24,Inox,Strunjire,459,0,Niciunul
+206,Freza,FREZA HSS Ø8 2F,1620,262.8,0.28,10.58,61.91,1.49,15.3,65.12,Otel,Frezare,218,0,Niciunul
+234,Tarod,TAROD M10 ISO2,5685,694.3,2.53,10.92,53.14,1.01,17.5,71.82,Inox,Filetare,12,0,Niciunul
+143,Freza,FREZA CARBURA Ø10 4F,4993,390.65,1.49,7.81,81.43,7.47,98.3,87.09,Otel,Frezare,166,1,Vibratii
+77,Freza,FREZA CARBURA Ø10 4F,3047,577.62,0.45,17.73,116.28,8.03,78.0,80.55,Otel,Frezare,106,1,Supraincalzire
+157,Placuta amovibila,WNMG080408,4505,201.79,0.83,17.47,60.9,1.51,4.0,61.65,Inox,Strunjire,273,0,Niciunul
+199,Burghiu,CARBIDE DRILL Ø12,4352,263.0,1.31,15.03,157.0,11.18,67.9,80.27,Otel,Gaurire,62,1,Vibratii
+104,Tarod,TAROD M10 ISO2,2581,462.96,1.37,19.88,65.21,1.48,19.4,61.6,Otel,Filetare,135,0,Niciunul
+16,Burghiu,CARBIDE DRILL Ø12,5282,1008.78,2.64,13.35,63.84,0.78,18.5,61.22,Inox,Gaurire,106,0,Niciunul
+209,Tarod,TAROD M10 ISO2,4449,509.79,1.57,6.94,38.25,1.08,1.3,67.61,Aluminiu,Filetare,301,0,Niciunul
+4,Placuta amovibila,CNMG120408,5665,553.44,1.87,5.34,69.79,1.4,5.4,61.15,Otel,Strunjire,268,0,Niciunul
+181,Freza,FREZA HSS Ø8 2F,4149,824.14,1.28,7.71,38.2,1.18,11.8,65.65,Otel,Frezare,154,0,Niciunul
+110,Placuta amovibila,WNMG080408,1634,1003.49,2.96,11.49,45.48,1.72,12.2,74.28,Otel,Strunjire,431,0,Niciunul
+49,Tarod,TAROD M10 ISO2,5027,355.91,1.43,8.52,44.62,1.55,0.2,69.06,Inox,Filetare,36,0,Niciunul
+55,Placuta amovibila,CNMG120408,4163,380.95,1.34,8.79,43.17,0.68,10.4,61.53,Otel,Strunjire,402,0,Niciunul
+74,Tarod,TAROD M10 ISO2,3604,749.53,0.32,5.79,115.89,6.87,69.2,98.4,Inox,Filetare,266,1,Uzura excesiva
+217,Burghiu,CARBIDE DRILL Ø12,1864,277.47,2.92,6.26,68.5,1.43,13.4,66.94,Inox,Gaurire,282,0,Niciunul
+51,Placuta amovibila,WNMG080408,2439,721.18,0.26,11.94,36.04,0.61,2.8,73.09,Otel,Strunjire,277,0,Niciunul
+226,Tarod,TAROD M10 ISO2,2668,253.02,1.38,6.79,67.03,0.63,7.9,61.64,Aluminiu,Filetare,99,0,Niciunul
+134,Tarod,TAROD M10 ISO2,2698,503.01,0.85,6.64,127.59,6.78,62.2,92.56,Inox,Filetare,491,1,Supraincalzire
+163,Burghiu,HSS DRILL Ø6,4471,353.62,1.48,5.56,54.87,0.98,8.7,74.84,Inox,Gaurire,493,0,Niciunul
+74,Freza,FREZA HSS Ø8 2F,5913,635.24,2.95,12.75,38.64,1.86,5.8,67.73,Aluminiu,Frezare,177,0,Niciunul
+64,Placuta amovibila,CNMG120408,3797,651.66,0.64,13.68,50.62,1.75,8.3,63.21,Aluminiu,Strunjire,205,0,Niciunul
+216,Burghiu,CARBIDE DRILL Ø12,3438,261.42,0.25,8.16,66.18,1.28,9.5,67.17,Otel,Gaurire,167,0,Niciunul
+178,Freza,FREZA HSS Ø8 2F,5994,936.3,0.6,7.27,47.28,1.89,8.6,61.23,Otel,Frezare,93,0,Niciunul
+242,Freza,FREZA HSS Ø8 2F,3206,797.83,0.35,17.8,49.0,0.55,6.4,63.17,Aluminiu,Frezare,177,0,Niciunul
+218,Tarod,TAROD M10 ISO2,2505,1143.66,1.62,14.46,52.15,1.87,17.7,68.42,Inox,Filetare,132,0,Niciunul
+283,Tarod,TAROD M10 ISO2,2262,520.88,2.47,12.24,143.14,8.09,68.4,91.1,Otel,Filetare,336,1,Uzura excesiva
+293,Burghiu,HSS DRILL Ø6,5841,679.3,0.73,15.32,57.64,1.0,9.3,64.73,Otel,Gaurire,323,0,Niciunul
+266,Placuta amovibila,CNMG120408,3130,555.11,1.04,6.01,80.59,10.32,72.5,98.27,Otel,Strunjire,107,1,Uzura excesiva
+5,Placuta amovibila,CNMG120408,5485,334.67,0.9,9.9,63.29,1.81,8.0,68.49,Inox,Strunjire,236,0,Niciunul
+35,Freza,FREZA HSS Ø8 2F,3814,1123.2,2.34,7.97,58.94,1.6,13.0,68.59,Aluminiu,Frezare,364,0,Niciunul
+158,Tarod,TAROD M10 ISO2,3330,903.02,1.51,16.8,64.35,1.19,1.9,70.24,Inox,Filetare,176,0,Niciunul
+45,Tarod,TAROD M10 ISO2,2154,252.26,2.06,13.1,35.13,1.4,9.2,61.66,Aluminiu,Filetare,154,0,Niciunul
+142,Placuta amovibila,CNMG120408,3055,751.26,1.03,16.75,86.8,7.8,59.0,87.52,Aluminiu,Strunjire,299,1,Vibratii
+203,Burghiu,CARBIDE DRILL Ø12,5370,1013.2,1.64,16.25,35.03,1.52,7.9,73.05,Inox,Gaurire,403,0,Niciunul
+236,Burghiu,HSS DRILL Ø6,5768,1043.87,1.44,19.87,52.74,0.59,6.3,66.12,Otel,Gaurire,55,0,Niciunul
+295,Placuta amovibila,CNMG120408,2424,1105.65,1.5,18.71,48.96,1.61,11.0,66.4,Aluminiu,Strunjire,338,0,Niciunul
+68,Placuta amovibila,CNMG120408,2350,244.0,1.1,11.83,38.78,1.1,6.9,74.31,Aluminiu,Strunjire,406,0,Niciunul
+103,Freza,FREZA HSS Ø8 2F,3781,991.27,2.59,12.91,145.86,11.7,40.1,93.97,Otel,Frezare,250,1,Supraincalzire
+107,Placuta amovibila,WNMG080408,2158,574.9,1.86,5.49,62.21,0.56,6.8,63.61,Otel,Strunjire,6,0,Niciunul
+97,Placuta amovibila,WNMG080408,4106,665.46,1.06,6.53,106.03,7.58,53.9,84.98,Otel,Strunjire,366,1,Uzura excesiva
+132,Tarod,TAROD M10 ISO2,3470,256.76,1.57,8.46,127.15,7.08,60.8,96.29,Aluminiu,Filetare,357,1,Supraincalzire
+80,Burghiu,HSS DRILL Ø6,5773,755.13,0.3,16.38,57.54,0.62,10.0,73.22,Inox,Gaurire,400,0,Niciunul
+77,Tarod,TAROD M10 ISO2,2542,519.46,1.34,15.9,58.43,1.5,14.9,64.77,Inox,Filetare,323,0,Niciunul
+117,Burghiu,CARBIDE DRILL Ø12,2446,623.38,1.1,6.46,152.71,4.1,45.5,99.32,Inox,Gaurire,97,1,Uzura excesiva
+50,Freza,FREZA CARBURA Ø10 4F,1594,290.88,1.83,18.95,66.95,1.78,15.5,73.94,Inox,Frezare,432,0,Niciunul
+57,Placuta amovibila,WNMG080408,1931,433.3,1.32,18.5,107.87,11.38,77.9,93.35,Aluminiu,Strunjire,282,1,Supraincalzire
+40,Burghiu,CARBIDE DRILL Ø12,4664,713.05,1.16,13.72,156.13,9.58,66.0,90.37,Aluminiu,Gaurire,51,1,Uzura excesiva
+22,Freza,FREZA HSS Ø8 2F,4282,269.96,0.57,7.19,38.53,0.97,17.5,67.45,Aluminiu,Frezare,78,0,Niciunul
+6,Freza,FREZA CARBURA Ø10 4F,4863,1149.34,0.62,11.9,51.72,1.2,13.3,60.35,Inox,Frezare,472,0,Niciunul
+243,Freza,FREZA CARBURA Ø10 4F,3435,241.99,1.58,14.71,58.3,0.72,10.4,73.42,Otel,Frezare,437,0,Niciunul
+269,Placuta amovibila,CNMG120408,2064,698.25,1.11,13.97,125.81,11.84,48.5,99.9,Otel,Strunjire,205,1,Vibratii
+166,Burghiu,HSS DRILL Ø6,4223,1080.39,2.3,8.5,63.91,1.05,12.1,73.84,Aluminiu,Gaurire,270,0,Niciunul
+65,Placuta amovibila,CNMG120408,3769,523.5,1.13,18.79,61.07,1.7,5.0,68.44,Inox,Strunjire,174,0,Niciunul
+82,Placuta amovibila,WNMG080408,3745,473.6,2.77,16.61,59.02,1.86,12.1,72.4,Aluminiu,Strunjire,175,0,Niciunul
+156,Placuta amovibila,WNMG080408,3794,791.35,2.91,5.69,36.38,1.02,5.2,62.05,Inox,Strunjire,143,0,Niciunul
+223,Freza,FREZA CARBURA Ø10 4F,5208,810.76,0.6,19.69,61.01,1.52,9.3,66.3,Aluminiu,Frezare,269,0,Niciunul
+205,Tarod,TAROD M10 ISO2,2360,1099.67,1.21,12.88,52.87,1.28,13.3,65.5,Otel,Filetare,423,0,Niciunul
+267,Tarod,TAROD M10 ISO2,3597,859.73,0.29,5.15,125.37,9.7,67.6,90.38,Otel,Filetare,281,1,Supraincalzire
+46,Burghiu,HSS DRILL Ø6,2380,1079.39,0.86,5.8,59.23,0.98,13.4,69.6,Inox,Gaurire,271,0,Niciunul
+103,Placuta amovibila,WNMG080408,4766,983.71,0.13,16.87,147.12,4.02,46.7,89.96,Otel,Strunjire,325,1,Uzura excesiva
+108,Placuta amovibila,WNMG080408,5596,461.76,0.62,15.13,112.67,5.73,97.3,98.86,Inox,Strunjire,157,1,Uzura excesiva
+20,Freza,FREZA CARBURA Ø10 4F,2272,947.46,1.14,9.38,154.62,11.05,94.0,86.27,Otel,Frezare,76,1,Uzura excesiva
+281,Freza,FREZA HSS Ø8 2F,3235,1127.16,0.73,16.15,62.24,1.41,9.4,68.62,Inox,Frezare,282,0,Niciunul
+216,Tarod,TAROD M10 ISO2,2197,428.49,0.34,6.48,35.16,1.41,13.9,65.46,Inox,Filetare,426,0,Niciunul
+108,Freza,FREZA HSS Ø8 2F,4620,303.12,1.7,7.47,65.41,0.73,8.7,69.91,Aluminiu,Frezare,262,0,Niciunul
+262,Burghiu,HSS DRILL Ø6,5862,332.29,1.8,9.11,35.41,1.99,16.5,72.11,Aluminiu,Gaurire,119,0,Niciunul
+207,Burghiu,CARBIDE DRILL Ø12,3264,469.37,0.32,19.99,44.67,1.84,15.8,60.52,Otel,Gaurire,234,0,Niciunul
+272,Burghiu,CARBIDE DRILL Ø12,2876,795.04,2.8,5.11,86.47,5.75,73.2,99.85,Otel,Gaurire,186,1,Supraincalzire
+130,Placuta amovibila,WNMG080408,4738,1104.81,1.02,16.88,94.68,6.03,73.4,93.93,Aluminiu,Strunjire,175,1,Uzura excesiva
+34,Freza,FREZA CARBURA Ø10 4F,3309,749.92,0.36,18.23,50.73,1.51,10.6,68.74,Inox,Frezare,188,0,Niciunul
+148,Placuta amovibila,WNMG080408,5052,1089.16,1.42,13.97,54.91,0.68,16.0,67.37,Otel,Strunjire,490,0,Niciunul
+107,Tarod,TAROD M10 ISO2,2219,262.35,2.72,16.88,58.93,1.3,11.3,66.99,Inox,Filetare,178,0,Niciunul
+224,Placuta amovibila,CNMG120408,5989,1088.94,1.84,9.95,67.7,0.98,19.7,72.47,Otel,Strunjire,138,0,Niciunul
+11,Burghiu,CARBIDE DRILL Ø12,1914,876.73,0.45,18.81,52.23,0.77,7.3,65.73,Otel,Gaurire,327,0,Niciunul
+139,Tarod,TAROD M10 ISO2,1591,1126.2,1.86,6.65,53.76,0.54,16.7,66.53,Otel,Filetare,224,0,Niciunul
+2,Burghiu,CARBIDE DRILL Ø12,4909,480.26,2.85,19.54,44.78,1.95,4.0,72.68,Aluminiu,Gaurire,386,0,Niciunul
+170,Freza,FREZA HSS Ø8 2F,1728,301.34,2.6,16.44,51.51,1.96,1.3,65.1,Otel,Frezare,494,0,Niciunul
+176,Burghiu,CARBIDE DRILL Ø12,4681,892.59,0.11,16.17,51.08,0.79,4.7,72.67,Aluminiu,Gaurire,82,0,Niciunul
+233,Placuta amovibila,WNMG080408,4819,561.35,2.62,9.13,66.53,0.99,15.3,67.41,Aluminiu,Strunjire,331,0,Niciunul
+284,Freza,FREZA HSS Ø8 2F,3081,1133.34,0.51,5.87,47.4,1.24,11.7,64.54,Aluminiu,Frezare,128,0,Niciunul
+40,Burghiu,HSS DRILL Ø6,2088,251.67,0.42,6.26,49.95,0.84,6.6,69.64,Otel,Gaurire,424,0,Niciunul
+286,Freza,FREZA HSS Ø8 2F,1633,460.63,2.78,9.1,54.33,1.6,15.1,74.24,Inox,Frezare,196,0,Niciunul
+90,Freza,FREZA HSS Ø8 2F,5760,787.3,1.61,17.07,91.45,11.18,88.5,88.72,Aluminiu,Frezare,246,1,Supraincalzire
