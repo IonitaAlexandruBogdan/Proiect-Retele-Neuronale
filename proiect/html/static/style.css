@@ -1,0 +1,137 @@
+/* ===== Reset de bază ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* ===== Body și Background ===== */
+body {
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* ===== Container principal ===== */
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+/* ===== Titluri ===== */
+h1, h2, h3 {
+    color: #1e3a8a; /* albastru închis */
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 2.2em;
+}
+
+h2 {
+    font-size: 1.8em;
+    border-bottom: 2px solid #1e3a8a;
+    padding-bottom: 5px;
+    margin-top: 25px;
+}
+
+h3 {
+    font-size: 1.4em;
+    margin-top: 20px;
+}
+
+/* ===== Paragrafe ===== */
+p {
+    margin-bottom: 15px;
+}
+
+/* ===== Link-uri ===== */
+a {
+    color: #2563eb; /* albastru vibrant */
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #1e40af; /* albastru mai închis */
+}
+
+/* ===== Liste ===== */
+ul, ol {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+/* ===== Table ===== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+table th, table td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table th {
+    background-color: #1e3a8a;
+    color: #fff;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* ===== Code Blocks ===== */
+pre, code {
+    background-color: #f4f4f4;
+    color: #d63384;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-family: 'Courier New', Courier, monospace;
+    overflow-x: auto;
+}
+
+/* ===== Buttons simple ===== */
+button {
+    background-color: #2563eb;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #1e40af;
+}
+
+/* ===== Section spacing ===== */
+section {
+    margin-bottom: 30px;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    h1 {
+        font-size: 1.8em;
+    }
+    h2 {
+        font-size: 1.5em;
+    }
+}
