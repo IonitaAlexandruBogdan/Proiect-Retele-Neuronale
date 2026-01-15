@@ -1,0 +1,10 @@
+batch_size: 32
+dropout:
+- 0.3
+- 0.2
+early_stopping_patience: 10
+epochs: 100
+loss_weights:
+  class_output: 1.0
+  rul_output: 0.01
+optimizer: adam
