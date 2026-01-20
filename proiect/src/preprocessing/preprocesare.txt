@@ -1,0 +1,120 @@
+import csv
+import random
+import math
+
+# -------------------------
+# Functii de preprocesare
+# -------------------------
+
+def citeste_dataset(fisier):
+    """Citeste CSV-ul si returneaza lista de dictionare"""
+    date = []
+    with open(fisier, newline='', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            date.append(row)
+    return date
+
+def inlocuieste_valori_lipsa(val):
+    """Inlocuieste valorile lipsa sau eronate"""
+    if val in [None, "", "NA", "?", "-1"]:
+        return 0
+    try:
+        return float(val)
+    except:
+        return val
+
+def encode_categorial(val, mapping):
+    """Encode pentru variabile categoriale"""
+    return mapping.get(val, 0)
+
+def min_max_scalare(val, min_val, max_val):
+    """Normalizare Min-Max"""
+    if max_val == min_val:
+        return 0
+    return (val - min_val) / (max_val - min_val)
+
+# -------------------------
+# Preprocesare dataset
+# -------------------------
+
+def preproceseaza_dataset(fisier_intrare, fisier_train="train.csv",
+                          fisier_val="val.csv", fisier_test="test.csv",
+                          split=(0.7, 0.15, 0.15)):
+
+    date = citeste_dataset(fisier_intrare)
+    random.shuffle(date)
+
+    # Determinam limite pentru normalizare
+    coloane_numerice = ["Turatie_RPM", "Avans_mm_min", "Adancime_Aschiere_mm",
+                        "Debit_Lichid_racire_L_min", "Temperatura_C", "Vibratii_mm_s",
+                        "Uzura_procent", "Zgomot_dB", "ID_Lot"]
+
+    min_max = {}
+    for col in coloane_numerice:
+        valori = [float(inlocuieste_valori_lipsa(d[col])) for d in date]
+        min_val = min(valori)
+        max_val = max(valori)
+        min_max[col] = (min_val, max_val)
+
+    # Encode categorial
+    valori_unice_tip_scula = list({d["Tip_Scula"] for d in date})
+    map_tip_scula = {v: i+1 for i, v in enumerate(valori_unice_tip_scula)}
+
+    valori_unice_material = list({d["Material_Prelucrat"] for d in date})
+    map_material = {v: i+1 for i, v in enumerate(valori_unice_material)}
+
+    valori_unice_operatie = list({d["Tip_Operatie"] for d in date})
+    map_operatie = {v: i+1 for i, v in enumerate(valori_unice_operatie)}
+
+    valori_unice_defect = list({d["Tip_Defect"] for d in date})
+    map_defect = {v: i for i, v in enumerate(valori_unice_defect)}
+
+    # Preprocesam fiecare rand
+    date_proc = []
+    for d in date:
+        rand_proc = {}
+
+        # Normalizare numerica
+        for col in coloane_numerice:
+            rand_proc[col] = min_max_scalare(float(inlocuieste_valori_lipsa(d[col])),
+                                             min_max[col][0], min_max[col][1])
+
+        # Encode categorial
+        rand_proc["Tip_Scula"] = encode_categorial(d["Tip_Scula"], map_tip_scula)
+        rand_proc["Material_Prelucrat"] = encode_categorial(d["Material_Prelucrat"], map_material)
+        rand_proc["Tip_Operatie"] = encode_categorial(d["Tip_Operatie"], map_operatie)
+        rand_proc["Tip_Defect"] = encode_categorial(d["Tip_Defect"], map_defect)
+
+        # Alte coloane (ID) ramase neschimbate
+        rand_proc["ID_Scula"] = int(d["ID_Scula"])
+        rand_proc["Model_Scula"] = d["Model_Scula"]
+        rand_proc["Scula_Defecta"] = int(d["Scula_Defecta"])
+
+        date_proc.append(rand_proc)
+
+    # Impartire train/val/test
+    n = len(date_proc)
+    n_train = int(split[0] * n)
+    n_val = int(split[1] * n)
+
+    train_set = date_proc[:n_train]
+    val_set = date_proc[n_train:n_train+n_val]
+    test_set = date_proc[n_train+n_val:]
+
+    def salveaza_csv(lista, fisier):
+        if len(lista) == 0:
+            return
+        with open(fisier, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=lista[0].keys())
+            writer.writeheader()
+            for r in lista:
+                writer.writerow(r)
+
+    salveaza_csv(train_set, fisier_train)
+    salveaza_csv(val_set, fisier_val)
+    salveaza_csv(test_set, fisier_test)
+
+    print(f"Preprocesare finalizata: {len(train_set)} train, {len(val_set)} val, {len(test_set)} test")
+
+preproceseaza_dataset("Dataset_CNC.csv")
