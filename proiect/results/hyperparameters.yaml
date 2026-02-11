@@ -1,0 +1,11 @@
+activation_hidden: ReLU
+activation_output: Softmax
+batch_size: 32
+dropout:
+- 0.3
+- 0.2
+early_stopping_patience: 10
+epochs: 60
+learning_rate: 0.001
+loss_function: SparseCategoricalCrossentropy
+optimizer: Adam

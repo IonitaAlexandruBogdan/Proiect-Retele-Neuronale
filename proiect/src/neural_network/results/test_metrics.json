@@ -1,0 +1,43 @@
+{
+    "accuracy": 0.9285714285714286,
+    "f1_macro": 0.9147697853494396,
+    "classification_report": {
+        "Niciunul": {
+            "precision": 0.9968253968253968,
+            "recall": 0.9127906976744186,
+            "f1-score": 0.952959028831563,
+            "support": 344.0
+        },
+        "Supraincalzire": {
+            "precision": 0.9142857142857143,
+            "recall": 0.9896907216494846,
+            "f1-score": 0.9504950495049505,
+            "support": 97.0
+        },
+        "Uzura excesiva": {
+            "precision": 0.8141592920353983,
+            "recall": 0.9292929292929293,
+            "f1-score": 0.8679245283018868,
+            "support": 99.0
+        },
+        "Vibratii": {
+            "precision": 0.8556701030927835,
+            "recall": 0.9222222222222223,
+            "f1-score": 0.8877005347593583,
+            "support": 90.0
+        },
+        "accuracy": 0.9285714285714286,
+        "macro avg": {
+            "precision": 0.8952351265598232,
+            "recall": 0.9384991427097638,
+            "f1-score": 0.9147697853494396,
+            "support": 630.0
+        },
+        "weighted avg": {
+            "precision": 0.9352471904500091,
+            "recall": 0.9285714285714286,
+            "f1-score": 0.9298944478575665,
+            "support": 630.0
+        }
+    }
+}
